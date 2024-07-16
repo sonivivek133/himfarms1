@@ -367,8 +367,8 @@
   {
     "id": "6",
     "sku": "asdf128",
-    "name": "Lorem ipsum jacket",
-    "price": 19.85,
+    "name": "King Oyster Mushroom",
+    "price": 300,
     "discount": 0,
     "offerEnd": "October 17, 2024 12:11:00",
     "new": true,
@@ -441,20 +441,20 @@
       }
     ],
     "image": [
-      "/assets/img/product/fashion/6.jpg",
+      "/assets/img/product/fashion/King-Oyster-Mushrooms-300x300.png",
       "/assets/img/product/fashion/3.jpg",
       "/assets/img/product/fashion/1.jpg",
       "/assets/img/product/fashion/8.jpg",
       "/assets/img/product/fashion/9.jpg"
     ],
-    "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
-    "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur? Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure. To take a trivial example, which of us ever undertakes laborious physical exercise, except to obtain some advantage from it? But who has any right to find fault with a man who chooses to enjoy a pleasure that has no annoying consequences, or one who avoids a pain that produces no resultant pleasure?"
+    "shortDescription": "Experience the rich and robust flavor of our King Oyster Mushrooms in a convenient 200g pack. These mushrooms are known for their distinct shape and meaty texture, making them a versatile addition to various culinary creations. Elevate your dishes with the savory goodness of King Oyster Mushrooms, perfect for enhancing the flavor of your favorite recipes.",
+    "fullDescription": "King Oyster Mushrooms – 200g offer several health benefits => Low in Calories: They are a low-calorie option, making them suitable for those managing their calorie intake. Rich in Nutrients: King Oyster mushrooms provide essential vitamins and minerals, including B-vitamins, potassium, and iron. Dietary Fiber: They contain dietary fiber, which promotes healthy digestion and supports a feeling of fullness. Savory Flavor: Their robust and meaty texture adds a savory umami flavor to dishes. Versatile Ingredient: Ideal for a wide range of recipes, from stir-fries to soups and grilling. Vegetarian Source of Protein: They offer a source of plant-based protein, suitable for vegetarians and vegans. Incorporate King Oyster Mushrooms into your meals to enjoy these benefits and add a flavorful and nutritious element to your cooking."
   },
   {
     "id": "7",
     "sku": "asdf129",
-    "name": "Lorem ipsum fashion female coat",
-    "price": 55.5,
+    "name": "100% Natural Premium California Dried Almonds",
+    "price": 400,
     "discount": 40,
     "new": true,
     "rating": 5,
@@ -526,20 +526,20 @@
       }
     ],
     "image": [
-      "/assets/img/product/fashion/7.jpg",
+      "/assets/img/product/fashion/Almonds-300x300.png",
       "/assets/img/product/fashion/5.jpg",
       "/assets/img/product/fashion/2.jpg",
       "/assets/img/product/fashion/4.jpg",
       "/assets/img/product/fashion/9.jpg"
     ],
-    "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
-    "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur? Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure. To take a trivial example, which of us ever undertakes laborious physical exercise, except to obtain some advantage from it? But who has any right to find fault with a man who chooses to enjoy a pleasure that has no annoying consequences, or one who avoids a pain that produces no resultant pleasure?"
+    "shortDescription": "Elevate your snacking experience with our , offering a gluten-free and plant-based source of protein. Enjoy the delightful taste and health benefits of these cashews, perfect for guilt-free snacking and culinary creations alike.",
+    "fullDescription": "100% Natural Premium California Dried Almonds – 500g Pack Pouch offers a wide range of benefits => High in Fiber: Almonds are rich in dietary fiber, aiding digestion and promoting a healthy gut. Boosts Immunity: They contain immune-boosting nutrients, helping your body defend against illnesses. Nutrient-Rich: Packed with essential vitamins, minerals, and healthy fats, they support overall well-being. Heart Health: Almonds are known to support cardiovascular health, thanks to their monounsaturated fats. Weight Management: Fiber and healthy fats promote a feeling of fullness, aiding in weight management. Gluten-Free: Safe for individuals with gluten sensitivities or celiac disease. Delicious and Versatile: Enjoy the natural, nutty taste of almonds in various dishes or as a convenient snack. Incorporate these premium California almonds into your diet to enjoy these benefits and enhance your overall health and nutrition."
   },
   {
     "id": "8",
     "sku": "asdf130",
-    "name": "Lorem ipsum fashion jacket",
-    "price": 29.85,
+    "name": "Oyster Mushrooms",
+    "price": 50,
     "discount": 10,
     "offerEnd": "October 18, 2024 12:11:00",
     "new": false,
@@ -549,20 +549,20 @@
     "tag": ["fashion", "men", "jacket", "full sleeve"],
     "stock": 0,
     "image": [
-      "/assets/img/product/fashion/8.jpg",
+      "/assets/img/product/fashion/Oyster-Mushroom-300x300.png",
       "/assets/img/product/fashion/6.jpg",
       "/assets/img/product/fashion/3.jpg",
       "/assets/img/product/fashion/1.jpg",
       "/assets/img/product/fashion/9.jpg"
     ],
-    "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
-    "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur? Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure. To take a trivial example, which of us ever undertakes laborious physical exercise, except to obtain some advantage from it? But who has any right to find fault with a man who chooses to enjoy a pleasure that has no annoying consequences, or one who avoids a pain that produces no resultant pleasure?"
+    "shortDescription": "Explore the delicate and delicious taste of our Oyster Mushrooms in a convenient 200g pack. These mushrooms are known for their unique shape and rich umami flavor. Use them to elevate your culinary creations, from stir-fries to soups, and savor the natural goodness of oyster mushrooms in your dishes.",
+    "fullDescription": "Oyster Mushrooms – 200g offer several health benefits => Low in Calories: They are a low-calorie option, making them suitable for weight-conscious individuals. Rich in Nutrients: Oyster mushrooms provide essential vitamins and minerals, including B-vitamins, iron, and zinc. Dietary Fiber: They contain dietary fiber, promoting healthy digestion and aiding in weight management. Antioxidant Properties: Oyster mushrooms are a source of antioxidants that help combat free radicals in the body. Vegetarian Source of Protein: They offer a source of plant-based protein, ideal for vegetarians and vegans. Versatile Ingredient: Ideal for a wide range of dishes, from Asian stir-fries to pasta and omelets. Incorporate Oyster Mushrooms into your meals to enjoy these benefits and add a flavorful and nutritious element to your cooking."
   },
   {
     "id": "9",
     "sku": "asdf131",
-    "name": "Lorem ipsum fashion female top",
-    "price": 35.6,
+    "name": "Shiitake Mushrooms",
+    "price": 400,
     "discount": 0,
     "new": false,
     "rating": 4,
@@ -572,14 +572,14 @@
     "stock": 5,
     "affiliateLink": "//www.amazon.com",
     "image": [
-      "/assets/img/product/fashion/9.jpg",
+      "/assets/img/product/fashion/Shiitake-Mushrooms-300x300.png",
       "/assets/img/product/fashion/7.jpg",
       "/assets/img/product/fashion/5.jpg",
       "/assets/img/product/fashion/2.jpg",
       "/assets/img/product/fashion/4.jpg"
     ],
-    "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
-    "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt."
+    "shortDescription": "Discover the delightful and rich taste of our Shiitake Mushrooms in a convenient 200g pack. These mushrooms are known for their umami flavor and versatile culinary uses. Add them to your stir-fries, soups, and other dishes to infuse your recipes with the savory goodness of Shiitake Mushrooms. Enjoy the natural and earthy flavors in your favorite meals.",
+    "fullDescription": "Shiitake Mushrooms – 200g offer several health benefits => Rich in Nutrients: Shiitake mushrooms are a source of essential vitamins and minerals, including B-vitamins, selenium, and copper. Antioxidant Properties: They contain antioxidants that help protect cells from damage caused by free radicals. Immune Support: Some studies suggest that compounds in Shiitake mushrooms may enhance the immune system’s function. Dietary Fiber: They provide dietary fiber, promoting healthy digestion and aiding in weight management. Versatile Ingredient: Ideal for a wide range of dishes, from Asian stir-fries to soups and pasta. Low in Calories: Shiitake mushrooms are a low-calorie option, making them suitable for calorie-conscious diets. Incorporate Shiitake Mushrooms into your meals to enjoy these benefits and add a rich and nutritious element to your cooking."
   },
   {
     "id": "10",
@@ -2728,8 +2728,8 @@
   {
     "id": "93",
     "sku": "asdf215",
-    "name": "Lorem ipsum kids six",
-    "price": 19.85,
+    "name": "California Walnuts Kernels Premium, Raw",
+    "price": 300,
     "discount": 0,
     "offerEnd": "October 17, 2024 12:11:00",
     "new": true,
@@ -2802,14 +2802,14 @@
       }
     ],
     "image": [
-      "/assets/img/product/fashion/28.jpg",
+      "/assets/img/product/fashion/Walnut-300x300.png",
       "/assets/img/product/fashion/29.jpg",
       "/assets/img/product/fashion/30.jpg",
       "/assets/img/product/fashion/23.jpg",
       "/assets/img/product/fashion/24.jpg"
     ],
-    "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
-    "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur? Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure. To take a trivial example, which of us ever undertakes laborious physical exercise, except to obtain some advantage from it? But who has any right to find fault with a man who chooses to enjoy a pleasure that has no annoying consequences, or one who avoids a pain that produces no resultant pleasure?"
+    "shortDescription": "Experience the premium quality of our California Walnut Kernels – a 200g pack of raw goodness. These walnuts are carefully selected for their superior quality and taste. Packed with nutrients and healthy fats, they make a versatile addition to your diet. Enjoy their natural flavor and numerous health benefits in your culinary creations or as a wholesome snack.",
+    "fullDescription": "California Walnut Kernels Premium – 200g, Raw offer a host of benefits => Nutrient-Rich: Packed with essential nutrients, including omega-3 fatty acids, vitamins, and minerals, promoting overall well-being. Heart Health: Walnuts are known to support cardiovascular health by reducing cholesterol levels and improving blood vessel function. Brain Health: Omega-3 fatty acids in walnuts are beneficial for cognitive function and may reduce the risk of age-related cognitive decline. Antioxidant Properties: Rich in antioxidants, they combat free radicals, reducing oxidative stress in the body. Weight Management: Protein, fiber, and healthy fats promote a feeling of fullness, aiding in weight management. Versatile Ingredient: Use them in a variety of dishes, from salads to baked goods, enhancing both taste and nutrition. Incorporate these premium California Walnut Kernels into your diet to enjoy these benefits and savor their delicious and nutritious goodness."
   },
   {
     "id": "94",
@@ -2887,7 +2887,7 @@
       }
     ],
     "image": [
-      "/assets/img/product/fashion/29.jpg",
+      "/assets/img/product/fashion/Cashews-300x300.png",
       "/assets/img/product/fashion/30.jpg",
       "/assets/img/product/fashion/23.jpg",
       "/assets/img/product/fashion/24.jpg",
@@ -2899,8 +2899,8 @@
   {
     "id": "95",
     "sku": "asdf217",
-    "name": "Lorem ipsum kids eight",
-    "price": 29.85,
+    "name": "Gucci Morel Mushroom – Dehydrated",
+    "price": 1800,
     "discount": 10,
     "offerEnd": "October 18, 2024 12:11:00",
     "new": false,
@@ -2910,14 +2910,14 @@
     "tag": ["fashion", "kids"],
     "stock": 0,
     "image": [
-      "/assets/img/product/fashion/30.jpg",
+      "/assets/img/product/fashion/Gucci-Morel-Mushroom-Dehydrated-300x300.png",
       "/assets/img/product/fashion/23.jpg",
       "/assets/img/product/fashion/24.jpg",
       "/assets/img/product/fashion/25.jpg",
       "/assets/img/product/fashion/26.jpg"
     ],
-    "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
-    "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur? Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure. To take a trivial example, which of us ever undertakes laborious physical exercise, except to obtain some advantage from it? But who has any right to find fault with a man who chooses to enjoy a pleasure that has no annoying consequences, or one who avoids a pain that produces no resultant pleasure?"
+    "shortDescription": "Elevate your culinary creations with Gucci Morel Mushrooms – a 50g pack of dehydrated, high-protein, and high-fiber mushrooms. These mushrooms are not only gluten-free but also perfect for cooking and baking. Infuse your dishes with the rich and earthy flavors of Morel Mushrooms, enhancing your culinary delights with this premium ingredient.",
+    "fullDescription": "Gucci Morel Mushroom – Dehydrated, 50g, offers several health benefits => High in Protein: Morel mushrooms are a good source of plant-based protein, essential for muscle repair and overall health. Dietary Fiber: Rich in dietary fiber, they promote healthy digestion and support a feeling of fullness, aiding in weight management. Gluten-Free: Ideal for individuals with gluten sensitivities or celiac disease, making them a versatile ingredient in various dishes. Distinct Flavor: Morel mushrooms have a unique and intense earthy flavor that enhances the taste of your recipes. Cooking Versatility: Suitable for a wide range of culinary applications, from savory dishes to soups, sauces, and baked goods. Incorporate Gucci Morel Mushrooms into your cooking to enjoy these benefits and elevate the flavor and nutrition of your favorite recipes."
   },
   {
     "id": "96",
