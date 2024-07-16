@@ -2,7 +2,7 @@
   {
     "id": "1",
     "sku": "asdf123",
-    "name": "Lorem ipsum jacket",
+    "name": "Dry Giloy Sticks",
     "price": 12.45,
     "discount": 10,
     "offerEnd": "October 5, 2024 12:11:00",
@@ -88,7 +88,7 @@
   {
     "id": "2",
     "sku": "asdf124",
-    "name": "Lorem ipsum coat",
+    "name": "Giloy Powder",
     "price": 18.5,
     "discount": 15,
     "new": false,
@@ -174,7 +174,7 @@
   {
     "id": "3",
     "sku": "asdf125",
-    "name": "Lorem ipsum jacket",
+    "name": "Himalayan Haldi Powder (Turmeric)",
     "price": 17.45,
     "discount": 40,
     "offerEnd": "October 2, 2024 12:11:00",
@@ -197,7 +197,7 @@
   {
     "id": "4",
     "sku": "asdf126",
-    "name": "Lorem ipsum fashion coat",
+    "name": "Dry Turmeric xFingers",
     "price": 15.5,
     "discount": 0,
     "new": true,
@@ -282,8 +282,8 @@
   {
     "id": "5",
     "sku": "asdf127",
-    "name": "Lorem ipsum female coat",
-    "price": 25.5,
+    "name": "Organic Curry Leaves",
+    "price": 152,
     "discount": 10,
     "new": true,
     "rating": 5,
@@ -355,14 +355,14 @@
       }
     ],
     "image": [
-      "/assets/img/product/fashion/5.jpg",
+      "/assets/img/product/fashion/Organic_Curry_Leaves-300x300.png",
       "/assets/img/product/fashion/2.jpg",
       "/assets/img/product/fashion/4.jpg",
       "/assets/img/product/fashion/7.jpg",
       "/assets/img/product/fashion/9.jpg"
     ],
-    "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
-    "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur? Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure. To take a trivial example, which of us ever undertakes laborious physical exercise, except to obtain some advantage from it? But who has any right to find fault with a man who chooses to enjoy a pleasure that has no annoying consequences, or one who avoids a pain that produces no resultant pleasure?"
+    "shortDescription": "Discover the authentic flavor and health benefits of our Organic Curry Leaves/Karuveppillai Dried Leaf Granules. This 200g pack contains the essence of pure curry leaves, known for their aromatic taste and numerous health advantages. Elevate your culinary creations and embrace the goodness of nature with every sprinkle of these dried leaf granules.",
+    "fullDescription": "Organic Curry Leaves/Karuveppillai Dried Leaf Granules offer a range of benefits => Enhanced Flavor: Infuse your dishes with the rich and aromatic taste of curry leaves, elevating the flavor profile of your meals. Digestive Aid: Curry leaves can aid in digestion and help alleviate common digestive issues, promoting a healthy gut. Antioxidant Rich: Packed with antioxidants, they assist in neutralizing harmful free radicals in the body. Hair and Skin Health: Curry leaves are known to improve the health of your hair and skin, promoting natural shine and radiance. Weight Management: They may contribute to weight management by assisting in the breakdown of fats. Blood Sugar Control: Some studies suggest that curry leaves may help regulate blood sugar levels. Rich in Nutrients: Curry leaves are a source of essential vitamins and minerals, including iron, calcium, and vitamin C. Elevate your culinary creations and enjoy the health benefits of Organic Curry Leaves/Karuveppillai Dried Leaf Granules in your daily cooking."
   },
   {
     "id": "6",
@@ -584,8 +584,8 @@
   {
     "id": "10",
     "sku": "asdf132",
-    "name": "Lorem ipsum blender",
-    "price": 15.6,
+    "name": "Dry Lemongrass Leaves",
+    "price": 239,
     "discount": 0,
     "new": false,
     "rating": 4,
@@ -594,19 +594,19 @@
     "tag": ["electronics"],
     "stock": 15,
     "image": [
-      "/assets/img/product/electronics/1.jpg",
+      "/assets/img/product/electronics/Lemon-Grass-300x300.jpeg",
       "/assets/img/product/electronics/2.jpg",
       "/assets/img/product/electronics/3.jpg",
       "/assets/img/product/electronics/4.jpg",
       "/assets/img/product/electronics/5.jpg"
     ],
-    "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
-    "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt."
+    "shortDescription": "Crisp and Aromatic Dry Lemongrass",
+    "fullDescription": "Crisp and aromatic, our 200g pack of Lemongrass Leaves brings a burst of freshness to your culinary adventures. Renowned for their delightful citrusy fragrance and zesty flavor,Lemongrass leaves are a versatile addition to teas, soups, and a wide array of dishes."
   },
   {
     "id": "11",
     "sku": "asdf133",
-    "name": "Lorem ipsum speaker",
+    "name": "Palam Black Tea",
     "price": 10.6,
     "discount": 10,
     "new": true,
@@ -628,7 +628,7 @@
   {
     "id": "12",
     "sku": "asdf134",
-    "name": "Lorem ipsum camera",
+    "name": "Palam Green Tea",
     "price": 12.5,
     "discount": 20,
     "new": true,
@@ -650,7 +650,7 @@
   {
     "id": "13",
     "sku": "asdf135",
-    "name": "Lorem ipsum monitor",
+    "name": "Stinging Nettle Tea",
     "price": 14.5,
     "discount": 30,
     "new": false,
@@ -672,7 +672,7 @@
   {
     "id": "14",
     "sku": "asdf136",
-    "name": "Lorem ipsum small speaker",
+    "name": "Herbal Tea",
     "price": 2.5,
     "discount": 10,
     "new": true,
@@ -694,7 +694,7 @@
   {
     "id": "15",
     "sku": "asdf137",
-    "name": "Lorem ipsum microphone",
+    "name": "Papad",
     "price": 12.5,
     "discount": 0,
     "new": false,
@@ -716,7 +716,7 @@
   {
     "id": "16",
     "sku": "asdf138",
-    "name": "Lorem ipsum grinder",
+    "name": "Badiyan",
     "price": 22.5,
     "discount": 20,
     "new": true,
@@ -738,7 +738,7 @@
   {
     "id": "17",
     "sku": "asdf139",
-    "name": "Lorem ipsum bluetooth",
+    "name": "Apple Jam",
     "price": 32.5,
     "discount": 10,
     "new": true,
@@ -760,7 +760,7 @@
   {
     "id": "18",
     "sku": "asdf140",
-    "name": "Lorem ipsum chair one",
+    "name": "Mixed Fruit Jam",
     "price": 15.6,
     "discount": 0,
     "new": false,
@@ -782,7 +782,7 @@
   {
     "id": "19",
     "sku": "asdf141",
-    "name": "Lorem ipsum chair two",
+    "name": "Pear Jam",
     "price": 10.6,
     "discount": 10,
     "new": true,
@@ -804,7 +804,7 @@
   {
     "id": "20",
     "sku": "asdf142",
-    "name": "Lorem ipsum chair three",
+    "name": "Plum Jam",
     "price": 12.5,
     "discount": 20,
     "new": true,
@@ -826,7 +826,7 @@
   {
     "id": "21",
     "sku": "asdf143",
-    "name": "Lorem ipsum sofa one",
+    "name": "Pineapple Jam",
     "price": 14.5,
     "discount": 30,
     "new": false,
@@ -848,7 +848,7 @@
   {
     "id": "22",
     "sku": "asdf144",
-    "name": "Lorem ipsum sofa two",
+    "name": "Mango Pickle",
     "price": 22.5,
     "discount": 10,
     "new": true,
@@ -870,7 +870,7 @@
   {
     "id": "23",
     "sku": "asdf145",
-    "name": "Lorem ipsum sofa three",
+    "name": "Mixed Pickle",
     "price": 12.5,
     "discount": 0,
     "new": false,
@@ -892,7 +892,7 @@
   {
     "id": "24",
     "sku": "asdf146",
-    "name": "Lorem ipsum sofa four",
+    "name": "Lemon Pickle",
     "price": 22.5,
     "discount": 20,
     "new": true,
@@ -914,7 +914,7 @@
   {
     "id": "25",
     "sku": "asdf147",
-    "name": "Lorem ipsum sofa five",
+    "name": "Burans Flower",
     "price": 32.5,
     "discount": 10,
     "new": true,
@@ -936,7 +936,7 @@
   {
     "id": "26",
     "sku": "asdf148",
-    "name": "Lorem ipsum plant one",
+    "name": "Mandi Sepubari",
     "price": 15.6,
     "discount": 0,
     "new": false,
@@ -958,7 +958,7 @@
   {
     "id": "27",
     "sku": "asdf149",
-    "name": "Lorem ipsum plant two",
+    "name": "Kala Jeera",
     "price": 10.6,
     "discount": 10,
     "new": true,
@@ -980,7 +980,7 @@
   {
     "id": "28",
     "sku": "asdf150",
-    "name": "Lorem ipsum plant three",
+    "name": "Chilgoza Seeds",
     "price": 12.5,
     "discount": 20,
     "new": true,
@@ -1002,7 +1002,7 @@
   {
     "id": "29",
     "sku": "asdf151",
-    "name": "Lorem ipsum plant four",
+    "name": "Gucchi Mushrooms",
     "price": 14.5,
     "discount": 30,
     "new": false,
@@ -2814,8 +2814,8 @@
   {
     "id": "94",
     "sku": "asdf216",
-    "name": "Lorem ipsum kids seven",
-    "price": 55.5,
+    "name": "100% Natural Premium Whole Cashews",
+    "price": 400,
     "discount": 40,
     "new": true,
     "rating": 5,
@@ -2893,8 +2893,8 @@
       "/assets/img/product/fashion/24.jpg",
       "/assets/img/product/fashion/25.jpg"
     ],
-    "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
-    "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur? Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure. To take a trivial example, which of us ever undertakes laborious physical exercise, except to obtain some advantage from it? But who has any right to find fault with a man who chooses to enjoy a pleasure that has no annoying consequences, or one who avoids a pain that produces no resultant pleasure?"
+    "shortDescription": "Elevate your snacking experience with our , offering a gluten-free and plant-based source of protein. Enjoy the delightful taste and health benefits of these cashews, perfect for guilt-free snacking and culinary creations alike.",
+    "fullDescription": "100% Natural Premium Whole Cashews – 500g Value Pack offers a multitude of benefits => Nutrient-Rich: Packed with essential nutrients, including vitamins, minerals, and healthy fats, they promote overall well-being. Plant-Based Protein: A rich source of plant-based protein, ideal for vegans and vegetarians. Heart Health: Cashews contain heart-healthy monounsaturated fats that can help reduce the risk of heart disease. Antioxidant Properties: Rich in antioxidants, they combat free radicals and support overall health. Weight Management: Protein and healthy fats promote a feeling of fullness, aiding in weight management. Gluten-Free: Suitable for those with gluten sensitivities or celiac disease. Delicious Flavor: Enjoy the natural, creamy taste of cashews in various dishes or as a satisfying snack. Incorporate these cashews into your diet to enjoy these benefits and savor their delicious and nutritious goodness."
   },
   {
     "id": "95",

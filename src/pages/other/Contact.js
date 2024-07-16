@@ -25,7 +25,7 @@ const Contact = () => {
         <div className="contact-area pt-100 pb-100">
           <div className="container">
             <div className="contact-map mb-10">
-              <GoogleMap lat={47.444} lng={-122.176} />
+            <GoogleMap lat={32.1104} lng={76.5363} />
             </div>
             <div className="custom-row-2">
               <div className="col-12 col-lg-4 col-md-5">
@@ -35,8 +35,8 @@ const Contact = () => {
                       <i className="fa fa-phone" />
                     </div>
                     <div className="contact-info-dec">
-                      <p>+012 345 678 102</p>
-                      <p>+012 345 678 102</p>
+                      <p>+0981 589 3436</p>
+                      <p>+0998 853 7198</p>
                     </div>
                   </div>
                   <div className="single-contact-info">
@@ -46,12 +46,12 @@ const Contact = () => {
                     <div className="contact-info-dec">
                       <p>
                         <a href="mailto:yourname@email.com">
-                          yourname@email.com
+                          info@himfarms.com
                         </a>
                       </p>
                       <p>
-                        <a href="https://yourwebsitename.com">
-                          yourwebsitename.com
+                        <a href="https://himfarms.vercel.app/">
+                        himfarms.vercel.app/.com
                         </a>
                       </p>
                     </div>
@@ -62,7 +62,7 @@ const Contact = () => {
                     </div>
                     <div className="contact-info-dec">
                       <p>Address goes here, </p>
-                      <p>street, Crossroad 123.</p>
+                      <p>Palampur, Himanchal Pradesh, India</p>
                     </div>
                   </div>
                   <div className="contact-social text-center">
