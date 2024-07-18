@@ -395,11 +395,11 @@ const NavMenu = ({ menuWhiteClass, sidebarMenu }) => {
               </li>
             </ul> */}
           </li>
-          <li>
+          {/* <li>
             <Link to={process.env.PUBLIC_URL + "/shop-grid-standard"}>
               {t("collection")}
             </Link>
-          </li>
+          </li> */}
           <li>
           <Link to={process.env.PUBLIC_URL + "/about"}>
                   {t("about_us")}

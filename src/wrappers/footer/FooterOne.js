@@ -117,7 +117,7 @@ const FooterOne = ({
                 <ul>
                   <li>
                     <a
-                      href="//www.facebook.com"
+                      href="https://www.facebook.com/profile.php?id=61555980043398"
                       target="_blank"
                       rel="noopener noreferrer"
                     >
@@ -135,7 +135,7 @@ const FooterOne = ({
                   </li>
                   <li>
                     <a
-                      href="//www.instagram.com"
+                      href="https://www.instagram.com/him_farms_organic?igsh=MTJpb3N2NnBqNnZkNQ%3D%3D&utm_source=qr"
                       target="_blank"
                       rel="noopener noreferrer"
                     >
@@ -144,7 +144,7 @@ const FooterOne = ({
                   </li>
                   <li>
                     <a
-                      href="//www.youtube.com"
+                      href="www.youtube.com/@HimFarms"
                       target="_blank"
                       rel="noopener noreferrer"
                     >
@@ -157,16 +157,76 @@ const FooterOne = ({
           </div>
           <div
             className={`${
+              sideMenu ? "col-xl-5 col-sm-6" : "col-lg-4 col-sm-8"
+            }`}
+          >
+            <div
+              className={`${
+                sideMenu
+                  ? "footer-widget mb-30 ml-145"
+                  : "footer-widget mb-30 ml-75"
+              }`}
+            >
+              <div className="footer-title">
+                <h3>CONTACT US</h3>
+              </div>
+              <div className="footer-list">
+                <ul>
+                  <li>
+                    <a
+                      // href="https://www.facebook.com/profile.php?id=61555980043398"
+                      // target="_blank"
+                      // rel="noopener noreferrer"
+                    >
+                      Email : info@himfarms.com
+                    </a>
+                  </li>
+                  <li>
+                    <a
+                      // href="//www.twitter.com"
+                      // target="_blank"
+                      // rel="noopener noreferrer"
+                    >
+                      Phone : 098158 93436
+                    </a>
+                  </li>
+                  <li>
+                    <a
+                      // href="https://www.instagram.com/him_farms_organic?igsh=MTJpb3N2NnBqNnZkNQ%3D%3D&utm_source=qr"
+                      // target="_blank"
+                      // rel="noopener noreferrer"
+                    >
+                      Address : 64/1 Indira Colony, Batahan, Panchrukhi, Palampur, Kangra, Himachal Pradesh 176103
+
+                    </a>
+                  </li>
+                  {/* <li>
+                    <a
+                      href="www.youtube.com/@HimFarms"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                    >
+                      Youtube
+                    </a>
+                  </li> */}
+                </ul>
+              </div>
+            </div>
+          </div>
+          
+          {/* <div
+            className={`${
               sideMenu ? "col-xl-3 col-sm-8" : "col-lg-4 col-sm-6"
             }`}
           >
-            {/* footer newsletter */}
+            
             <FooterNewsletter
               spaceBottomClass="mb-30"
               spaceLeftClass="ml-70"
               sideMenu={sideMenu}
             />
-          </div>
+          </div> */}
+          
         </div>
       </div>
     </footer>

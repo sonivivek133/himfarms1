@@ -17,6 +17,7 @@ const FooterNewsletter = ({
       <div className={clsx("subscribe-style", colorClass)}>
         <p>Email : info@himfarms.com</p>
         <p>Phone : 98158 93436</p>
+        <p>Address : 64/1 Indira Colony, Batahan, Panchrukhi, Palampur, Kangra, Himachal Pradesh 176103</p>
         {/* subscribe email */}
         {/* <SubscribeEmail mailchimpUrl="//devitems.us11.list-manage.com/subscribe/post?u=6bbb9b6f5827bd842d9640c82&amp;id=05d85f18ef" /> */}
       </div>

@@ -22,7 +22,7 @@ const BlogPost = () => {
               </li>
             </ul>
           </div>
-          <h3>14 Emerging Fashion Influencers Who Are Going to Own 2018</h3>
+          <h3>Experiencing the Magic of Pineapple Jam Across Every Meal!</h3>
           <p>
             Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do
             eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim
