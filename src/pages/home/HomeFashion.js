@@ -24,7 +24,7 @@ const HomeFashion = () => {
         <FeatureIcon spaceTopClass="pt-100" spaceBottomClass="pb-60" />
 
         {/* tab product */}
-        <TabProduct spaceBottomClass="pb-60" category="fashion" />
+        <TabProduct spaceBottomClass="pb-60" category="bestseller" />
 
         {/* blog featured */}
         <BlogFeatured spaceBottomClass="pb-55" />

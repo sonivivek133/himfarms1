@@ -16,6 +16,7 @@ export const getProducts = (products, category, type, limit) => {
         return b.saleCount - a.saleCount;
       })
       .slice(0, limit ? limit : finalProducts.length);
+      
   }
   if (type && type === "saleItems") {
     const saleItems = finalProducts.filter(

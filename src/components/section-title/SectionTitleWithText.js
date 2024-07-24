@@ -7,12 +7,9 @@ const SectionTitleWithText = ({ spaceTopClass, spaceBottomClass }) => {
       <div className="container">
         <div className="welcome-content text-center">
           <h5>Who Are We</h5>
-          <h1>Welcome To Flone</h1>
+          <h1>Welcome To HimFarms</h1>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do
-            eiusmod tempor incididunt labor et dolore magna aliqua. Ut enim ad
-            minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-            aliquip ex ea commo consequat irure{" "}
+          HimFarms is a vibrant online marketplace dedicated to promoting a healthy and sustainable lifestyle.We offer a curated range of genuine, handpicked Himalayan products delivered straight to your door. We are dedicated to bridging the gap for local businesses, self-help groups, and FPOs in the Himalayan region. We understand their challenges in accessing broader markets due to gaps in branding, packaging, quality control, and market demand knowledge.{" "}
           </p>
         </div>
       </div>

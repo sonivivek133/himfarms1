@@ -35,8 +35,8 @@ const Contact = () => {
                       <i className="fa fa-phone" />
                     </div>
                     <div className="contact-info-dec">
+                      <p>+0987 872 1079</p>
                       <p>+0981 589 3436</p>
-                      <p>+0998 853 7198</p>
                     </div>
                   </div>
                   <div className="single-contact-info">
@@ -51,7 +51,7 @@ const Contact = () => {
                       </p>
                       <p>
                         <a href="https://himfarms.vercel.app/">
-                        himfarms.vercel.app/.com
+                        himfarms.vercel.app
                         </a>
                       </p>
                     </div>
@@ -61,7 +61,7 @@ const Contact = () => {
                       <i className="fa fa-map-marker" />
                     </div>
                     <div className="contact-info-dec">
-                      <p>Address goes here, </p>
+                      {/* <p>Address goes here, </p> */}
                       <p>Palampur, Himanchal Pradesh, India</p>
                     </div>
                   </div>
@@ -69,27 +69,27 @@ const Contact = () => {
                     <h3>Follow Us</h3>
                     <ul>
                       <li>
-                        <a href="//facebook.com">
+                        <a href="https://www.facebook.com/people/Him-Farms/pfbid02uiWbEaUdRzXTBYF4uKETbjiPVmKuBYj12QqESTLo4dy2mTVjDSqVjXA4MryjTAPKl/4">
                           <i className="fa fa-facebook" />
                         </a>
                       </li>
                       <li>
-                        <a href="//pinterest.com">
-                          <i className="fa fa-pinterest-p" />
+                        <a href="https://www.youtube.com/@HimFarms">
+                          <i className="fa fa-youtube" />
                         </a>
                       </li>
                       <li>
-                        <a href="//thumblr.com">
-                          <i className="fa fa-tumblr" />
+                        <a href="https://www.instagram.com/him_farms_organic/">
+                          <i className="fa fa-instagram" />
                         </a>
                       </li>
-                      <li>
+                      {/* <li>
                         <a href="//vimeo.com">
                           <i className="fa fa-vimeo" />
                         </a>
-                      </li>
+                      </li> */}
                       <li>
-                        <a href="//twitter.com">
+                        <a href="https://x.com/HimFarms">
                           <i className="fa fa-twitter" />
                         </a>
                       </li>

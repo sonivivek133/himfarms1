@@ -45,18 +45,19 @@ const FooterOne = ({
                     <Link to={process.env.PUBLIC_URL + "/about"}>About us</Link>
                   </li>
                   <li>
-                    <Link to={process.env.PUBLIC_URL + "#/"}>
-                      Store location
-                    </Link>
-                  </li>
-                  <li>
                     <Link to={process.env.PUBLIC_URL + "/contact"}>
                       Contact
                     </Link>
                   </li>
                   <li>
-                    <Link to={process.env.PUBLIC_URL + "#/"}>
-                      Orders tracking
+                    <Link to={process.env.PUBLIC_URL + "/wishcart"}>
+                      WishList
+                    </Link>
+                  </li>
+                  
+                  <li>
+                    <Link to={process.env.PUBLIC_URL + "/cart"}>
+                      Cart
                     </Link>
                   </li>
                 </ul>
@@ -81,18 +82,18 @@ const FooterOne = ({
               <div className="footer-list">
                 <ul>
                   <li>
-                    <Link to={process.env.PUBLIC_URL + "#/"}>Returns</Link>
+                    <Link to={process.env.PUBLIC_URL + "/"}>Home</Link>
                   </li>
                   <li>
-                    <Link to={process.env.PUBLIC_URL + "#/"}>
-                      Support Policy
+                    <Link to={process.env.PUBLIC_URL + "/shop"}>
+                      Shop
                     </Link>
                   </li>
                   <li>
-                    <Link to={process.env.PUBLIC_URL + "#/"}>Size guide</Link>
+                    <Link to={process.env.PUBLIC_URL + "/blog-standard"}>Blog</Link>
                   </li>
                   <li>
-                    <Link to={process.env.PUBLIC_URL + "#/"}>FAQs</Link>
+                    <Link to={process.env.PUBLIC_URL + "/login-register"}>Login</Link>
                   </li>
                 </ul>
               </div>
